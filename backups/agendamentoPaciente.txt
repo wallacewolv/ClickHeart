@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------
+                                 CLINICAS PARAISO 
+                                   Unidade III
+----------------------------------------------------------------------------------
+                               Agendamento de Consulta         
+
+ O(A) paciente: Wallace Wesley de Oliveira
+
+ Rg: 12.345.678-9 e CPF: 123.456.789-00
+
+
+ Atendimento será na Clinica Paraiso Unidade III Rua Artur Sabóia, n° 333
+
+ Consulta marcada com o(a) Dr(a) Raquel S. no consultorio de Pediatria
+
+ Dia da consulta:  34/11/2020 - 14:00 hrs
+----------------------------------------------------------------------------------
+Backup  acima, referente ao dia 27/11/2020 - 5:13:34
+-------------------------------------------------------------------------------------------
+

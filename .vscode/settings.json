@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        ".sequelizerc": "javascript",
+        ".stylelintrc": "json",
+        ".prettierrc": "json",
+        "*.html": "njk",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "string": "cpp",
+        "iosfwd": "cpp",
+        "fstream": "cpp",
+        "xstring": "cpp",
+        "vector": "cpp"
+    }
+}
